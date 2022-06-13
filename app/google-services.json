@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1453134814",
+    "project_id": "eldroid-final-project",
+    "storage_bucket": "eldroid-final-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1453134814:android:ecb2c9ed8af9676d72434f",
+        "android_client_info": {
+          "package_name": "com.example.SANCHEZ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1453134814-ut4cgi3h93eudu9jo05tl1jkthle5tdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB61vFjKnDThxfrIhURIp3XVpg0C4aN3fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1453134814-ut4cgi3h93eudu9jo05tl1jkthle5tdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1453134814:android:1d8a197ed01e64f872434f",
+        "android_client_info": {
+          "package_name": "com.example.eldroid_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1453134814-ut4cgi3h93eudu9jo05tl1jkthle5tdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB61vFjKnDThxfrIhURIp3XVpg0C4aN3fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1453134814-ut4cgi3h93eudu9jo05tl1jkthle5tdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
